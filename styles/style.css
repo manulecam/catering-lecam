@@ -131,7 +131,7 @@
 /* Configuración del background */
 .g-main{
     grid-area: gmain;
-    background-image: url(https://i.imgur.com/AseT7Rb.jpg);
+    background-image: url(https://haedocatering.com.ar/usr/archivos/25_603fc0764490f.jpg);
     background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -235,7 +235,7 @@
 /** MAIN COCTELERIA **/
 .main-coct{
     grid-area: gmain;
-    background-image: url(https://cdn.foodandwineespanol.com/2020/10/cocteles-rosas.jpg);
+    background-image: url(https://images7.alphacoders.com/354/thumb-1920-354413.jpg);
     background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -449,7 +449,7 @@
 /** MAIN Galeria **/
 .main-gal{
     grid-area: gmain;
-    background-image: url(https://images7.alphacoders.com/367/thumb-1920-367895.jpg);
+    background-image: url(https://images4.alphacoders.com/124/thumb-1920-1240054.jpg);
     background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -481,7 +481,7 @@
 /******************************************************/
 
 /******************************************************/
-/** MAIN Galeria **/
+/** MAIN servicios **/
 .main-servicios{
     grid-area: gmain;
     background-image: url(https://images5.alphacoders.com/108/thumb-1920-1084160.jpg);
